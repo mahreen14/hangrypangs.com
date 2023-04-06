@@ -1,0 +1,52 @@
+
+body{
+ margin: 2px;
+ margin-top: -20px;
+ padding:0px;
+}
+.ph  {
+    background-color: #e8d3ff;
+    mix-blend-mode: color;
+}
+.ph .refund li {
+    font-size: 20px;
+}
+.ph p.privacy {
+    font-size: 20px;
+    text-decoration: italic ;
+}
+ p.intro{
+    font-size:20px;
+}
+.ph h3.text1{
+    font-size: 20px;
+    color: #000000;
+}
+.ph p.proceed{
+    font-size: 20px;
+}
+.ph h1.text {
+color: rgb(9, 130, 0);
+}
+.ph .images img.avatar{
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.ph h3.title2{
+    color: #c80ed5;
+}
+.ph h3.title1{
+    color: #c80ed5;
+}
+.ph h1.tc{
+    color:  #7f0988;
+}
+.ph h4 a button.btn{
+    background-color:#e8d3ff ;
+    border-color: #e364f9;
+}
+.ph h1.textr{
+    color: brown;
+}
